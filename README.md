@@ -1,4 +1,4 @@
-# LMS Signup & KYC – Phase 1 (Monorepo Scaffold)
+# LMS Signup & KYC – Phase 1 
 
 Full-stack scaffold implementing the BRS: Admin registration, email/phone verification (OTP), KYC upload, dashboard, profile, notifications.
 
